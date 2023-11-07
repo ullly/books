@@ -50,3 +50,4 @@ A list of books I have read since finishing university in 2020.
 47. Sea of Tranquility by Emily St. John Mandel
 48. Catch-22 by Joseph Heller
 49. White City by Kevin Power
+50. Bad Day in Blackrock by Kevin Power
