@@ -51,3 +51,4 @@ A list of books I have read since finishing university in 2020.
 48. Catch-22 by Joseph Heller
 49. White City by Kevin Power
 50. Bad Day in Blackrock by Kevin Power
+51. Bright Young Women by Jessica Knoll
