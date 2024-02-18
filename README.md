@@ -53,3 +53,4 @@ A list of books I have read since finishing university in 2020.
 50. Bad Day in Blackrock by Kevin Power
 51. Bright Young Women by Jessica Knoll
 52. Into the Wild by Jon Krakauer
+53. Prophet Song by Paul Lynch
