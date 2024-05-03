@@ -56,3 +56,4 @@ A list of books I have read since finishing university in 2020.
 53. Prophet Song by Paul Lynch
 54. Born to Run by Christopher McDougall
 55. I Am Legend by Richard Matheson
+56. No Shortcuts to the Top: Climbing the World's 14 Highest Peaks by Ed Viesturs
