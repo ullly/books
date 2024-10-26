@@ -59,3 +59,4 @@ A list of books I have read since finishing university in 2020.
 56. No Shortcuts to the Top: Climbing the World's 14 Highest Peaks by Ed Viesturs
 57. God, Human, Animal, Machine by Meghan O'Gieblyn
 58. The Earthquake Bird by Susanna Jones
+59. The Big Con by Mariana Mazzucato & Rosie Collington
