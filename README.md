@@ -60,3 +60,4 @@ A list of books I have read since finishing university in 2020.
 57. God, Human, Animal, Machine by Meghan O'Gieblyn
 58. The Earthquake Bird by Susanna Jones
 59. The Big Con by Mariana Mazzucato & Rosie Collington
+60. 12 Rules for Life by Jordan B. Peterson
