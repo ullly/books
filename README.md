@@ -62,3 +62,4 @@ A list of books I have read since finishing university in 2020.
 59. The Big Con by Mariana Mazzucato & Rosie Collington
 60. 12 Rules for Life by Jordan B. Peterson
 61. Intermezzo by Sally Rooney
+62. Money by David McWilliams
