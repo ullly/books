@@ -64,3 +64,4 @@ A list of books I have read since finishing university in 2020.
 61. Intermezzo by Sally Rooney
 62. Money by David McWilliams
 63. Zeroism by Bryan Johnson
+64. Mandatory Reporting by Jenny Wilson O'Raghallaigh
