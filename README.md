@@ -65,3 +65,4 @@ A list of books I have read since finishing university in 2020.
 62. Money by David McWilliams
 63. Zeroism by Bryan Johnson
 64. Mandatory Reporting by Jenny Wilson O'Raghallaigh
+65. To Be a Machine by Mark O'Connell
