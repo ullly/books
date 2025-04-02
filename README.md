@@ -68,3 +68,4 @@ A list of books I have read since finishing university in 2020.
 65. To Be a Machine by Mark O'Connell
 66. Notes From an Apocalypse by Mark O'Connell
 67. Stoner by John Williams
+68. The Technological Republic by Alexander C. Karp & Nicholas W. Zamiska
