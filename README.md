@@ -70,3 +70,4 @@ A list of books I have read since finishing university in 2020.
 67. Stoner by John Williams
 68. The Technological Republic by Alexander C. Karp & Nicholas W. Zamiska
 69. The Open Organization by Jim Whitehurst
+70. Trading Game by Gary Stevenson
