@@ -73,3 +73,4 @@ A list of books I have read since finishing university in 2020.
 70. Trading Game by Gary Stevenson
 71. Anxious People by Fredrik Backman
 72. The Fund by Rob Copeland
+73. The Mist by Stephen King
