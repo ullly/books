@@ -75,3 +75,4 @@ A list of books I have read since finishing university in 2020.
 72. The Fund by Rob Copeland
 73. The Mist by Stephen King
 74. The Phoenix Project by Gene Kim, Kevin Behr & George Spafford
+75. The New Kingmakers by Stephen O'Grady
