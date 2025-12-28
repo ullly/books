@@ -78,3 +78,4 @@ A list of books I have read since finishing university in 2020.
 75. The New Kingmakers by Stephen O'Grady
 76. How Big Things Get Done by Bent Flyvbjerg & Dan Gardner
 77. Zen and the Art of Motorcycle Maintenance by Robert Pirsig
+78. Artificial Wisdom by Thomas R. Weaver
