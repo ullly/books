@@ -80,3 +80,4 @@ A list of books I have read since finishing university in 2020.
 77. Zen and the Art of Motorcycle Maintenance by Robert Pirsig
 78. Artificial Wisdom by Thomas R. Weaver
 79. How to Think About AI by Richard Susskind
+80. A Christmas Carol by Charles Dickens
