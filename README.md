@@ -81,3 +81,4 @@ A list of books I have read since finishing university in 2020.
 78. Artificial Wisdom by Thomas R. Weaver
 79. How to Think About AI by Richard Susskind
 80. A Christmas Carol by Charles Dickens
+81. Chronicles, Volume One by Bob Dylan
