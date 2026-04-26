@@ -84,3 +84,4 @@ A list of books I have read since finishing university in 2020.
 81. Chronicles, Volume One by Bob Dylan
 82. Exit Strategy by Lee Child & Andrew Child
 83. An Irish Atlantic Rainforest by Eoghan Daltun
+84. The Shipping News by Annie Proulx
