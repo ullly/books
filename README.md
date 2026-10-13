@@ -88,3 +88,4 @@ A list of books I have read since finishing university in 2020.
 85. Nonviolent Communication by Marshall B. Rosenberg
 86. A Stranger in the Family by Jane Casey
 87. The DevOps Handbook by Gene Kim, Jez Humble, Patrick Debois, John Willis & Nicole Forsgren
+88. The Staff Engineer's Path by Tanya Reilly
